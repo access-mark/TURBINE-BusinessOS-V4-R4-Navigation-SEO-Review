@@ -1,0 +1,12 @@
+{
+  "base_url": "https://access-mark.github.io/TURBINE-BusinessOS-V4-R3-Narrative-QSE-Occupations-Review/",
+  "mode": "preview",
+  "pages": 71,
+  "indexable_in_release": 69,
+  "sitemaps": {
+    "core": 24,
+    "industries": 16,
+    "occupations": 29
+  },
+  "note": "Preview is intentionally noindexed. Release-mode build requires founder approval; generation alone is not release acceptance."
+}
